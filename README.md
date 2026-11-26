@@ -9,4 +9,4 @@ Linguaggi:
 Strumenti:
 
 
-![Strumenti](https://skillicons.dev/icons?i=linux,git,vim,docker,mysql,nodejs,nginx,postgres&perline=6)
+![Strumenti](https://skillicons.dev/icons?i=linux,git,vim,docker,mysql,nginx,postgres&perline=6)
